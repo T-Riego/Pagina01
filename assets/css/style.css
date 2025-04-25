@@ -3,8 +3,8 @@
 
 
 /* Components */
-@import "./responsive-background.css";
 @import "./responsive-elements.css";
+@import "./responsive-background.css";
 @import "./bootstrap.css";
 @import "./header.css";
 @import "./buttons.css";
