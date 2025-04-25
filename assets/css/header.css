@@ -1,15 +1,13 @@
 header section {
 
-  
-  justify-content: space-between;
-  align-items: center;
-  
-}
+    justify-content: space-between;
+    align-items: center;
+    
+  }
 
 header nav ul {
   display: flex;
   flex-direction: row;
-  list-style: none;
   align-items: center;
 }
 
